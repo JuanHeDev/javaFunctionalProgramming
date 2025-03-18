@@ -15,7 +15,7 @@ public class CrearStreams {
 
         //Arreglo
         int[] numbers = {1,2,3,4,5};
-        Stream numbersS =Stream.of(numbers);
+        Stream numbersS = Stream.of(numbers);
 
         //Secuencia
         Stream.of("Rafael", "Marco", "Manuel", "Raul", "Ana");
